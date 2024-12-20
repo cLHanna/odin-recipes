@@ -1,0 +1,19 @@
+
+.mainheads {
+    text-align: center;
+}
+.smallheads {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(172, 172, 36);
+    text-align: center;
+}
+
+
+#one {
+    font-weight: bold;
+}
+
+.listone {
+    font-size: large;
+    text-align: center;
+}
